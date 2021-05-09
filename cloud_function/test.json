@@ -1,0 +1,8 @@
+{
+    "httpMethod": "GET",
+    "headers": {
+        "Content-Type": "application/json"
+      },
+    "body": "{\"message\": {\"chat\": {\"id\": \"321067378\"}, \"text\": \"/stopautoreply\"}}",
+    "isBase64Encoded": false
+}
