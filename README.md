@@ -26,3 +26,5 @@ To get API_ID and API_HASH follow https://core.telegram.org/api/obtaining_api_id
 Use your username as SESSION_FILE by default.
 
 The main file is `autoreply.py`. Files related to triger are located in `cloud_function` folder.
+
+More info is here https://bakuteev.website.yandexcloud.net/posts/blog-telegram-autoreply-yandex-cloud
